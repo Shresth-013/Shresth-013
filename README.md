@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **shresthraj12004@gmail.com**
 
+- 🦸‍♂️ Fun Fact: I can center a `<div>` in under 10 seconds — that’s my superpower!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shresthraj13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shresthraj13" height="30" width="40" /></a>
