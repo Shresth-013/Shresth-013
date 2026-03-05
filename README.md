@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **react, tailwind ,next or javascript**
+- 💬 Ask me about **react, tailwind ,next,javascript or node**
 
 - 📫 How to reach me **shresthraj12004@gmail.com**
 
