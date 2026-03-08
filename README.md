@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shresth Raj</h1>
-<h3 align="center">A Frontend developer focused on building seamless user experiences using modern web technologies.</h3>
+<h3 align="center">A passionate MERN Stack developer building scalable web applications and seamless user experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shresth-013&label=Profile%20views&color=0e75b6&style=flat" alt="shresth-013" /> </p>
 
