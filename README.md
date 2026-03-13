@@ -12,6 +12,10 @@
 
 - 🦸‍♂️ Fun Fact: I can center a `<div>` in under 10 seconds — that’s my superpower!
 
+- 🔭 Currently working on **Full-stack MERN projects with Gen AI**
+    
+- 🌱 Exploring **system design and scalable backend architectures**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shresthraj13" target="blank">
