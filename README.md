@@ -11,7 +11,6 @@
 - 🔭 Currently working on **Full-stack MERN projects with Gen AI**
 - 🌱 Learning **MERN Stack**
 - 🧠 Exploring **System Design & Scalable Backend Architectures**
-- 💬 Ask me about **React, Tailwind, Next.js, JavaScript, Node.js**
 - 📫 Reach me at **shresthraj12004@gmail.com**
 - 🌐 Portfolio: **https://shresth-portfolio.vercel.app/**
 - ⚡ Fun fact: *I can center a `<div>` in under 10 seconds — that’s my superpower!*
